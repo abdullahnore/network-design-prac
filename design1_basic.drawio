@@ -1,9 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="zHDUBSMm0I6ZtRSA8oF2">
-    <mxGraphModel>
+    <mxGraphModel dx="850" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqfReCvcwtNPIez_ZeTn-2" target="UqfReCvcwtNPIez_ZeTn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-2" value="Router" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqfReCvcwtNPIez_ZeTn-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqfReCvcwtNPIez_ZeTn-3" target="UqfReCvcwtNPIez_ZeTn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UqfReCvcwtNPIez_ZeTn-4" target="UqfReCvcwtNPIez_ZeTn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-4" value="SWITCH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-6" value="" style="fillColor=#008000;aspect=fixed;sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.openstack.neutron_subnet;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-7" value="" style="fillColor=#C82128;aspect=fixed;sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.openstack.neutron_subnet;" vertex="1" parent="1">
+          <mxGeometry x="349" y="360" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-8" value="" style="fillColor=#3F51B5;aspect=fixed;sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.openstack.neutron_subnet;" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-13" value="ADMIN DEPARTMENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="448" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-14" value="SALES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="468" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UqfReCvcwtNPIez_ZeTn-15" value="IT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="440" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
